@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.njltech.android.swipesleft.MainActivity">
+
+    <Button
+        android:id="@+id/rutgers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:drawableRight="@drawable/ru_logo"
+        android:gravity="left|center"
+        android:paddingBottom="4dp"
+        android:paddingRight="15dp"
+        android:paddingTop="4dp"
+        android:text="Rutgers"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/psu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:drawableRight="@drawable/psu_logo"
+        android:gravity="left|center"
+        android:paddingBottom="4dp"
+        android:paddingRight="5dp"
+        android:paddingTop="4dp"
+        android:text="Penn State"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/esu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:drawableRight="@drawable/esu_logo"
+        android:gravity="left|center"
+        android:paddingBottom="4dp"
+        android:paddingRight="25dp"
+        android:paddingTop="4dp"
+        android:text="East Stroudsburg"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/moravian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:drawableRight="@drawable/moravian_logo"
+        android:gravity="left|center"
+        android:paddingBottom="4dp"
+        android:paddingRight="15dp"
+        android:paddingTop="4dp"
+        android:text="Moravian College"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/rowan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:drawableRight="@drawable/rowan_logo"
+        android:gravity="left|center"
+        android:paddingBottom="4dp"
+        android:paddingRight="21dp"
+        android:paddingTop="4dp"
+        android:text="Rowan University"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/usc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:drawableRight="@drawable/usc_logo"
+        android:gravity="left|center"
+        android:paddingBottom="4dp"
+        android:paddingRight="22dp"
+        android:paddingTop="4dp"
+        android:text="University of South Carolina"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+</TableLayout>

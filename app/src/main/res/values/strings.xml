@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Swipes Left</string>
+    <string name="btnCash">Cash Left</string>
+    <string name="btnSwipes">Swipes Left</string>
+    <string name="imgCash">Cash</string>
+    <string name="imgID">ID</string>
+    <string name="txtInputSwipes">Input Swipes Left</string>
+    <string name="inputExampleSwipes">100</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="txtLastDaySemester">Select Your Last Day of the Semester</string>
+    <string name="btnReset">Reset</string>
+    <string name="txtInputCash">Input Cash Left</string>
+    <string name="txtStartDate">Start</string>
+    <string name="txtEndDate">End</string>
+</resources>
